@@ -1,1 +1,1 @@
-It is a number guessing game. The user tries to guess the chosen random number and is given feedback by the program as too high and too low. If the user guesses it correctly, the user wins and the highest score is added to the board. Reverse case, all the points are set to 0.
+It is a number guessing game for one person. The user tries to guess the chosen random number and is given feedback by the program as too high and too low. If the user guesses it correctly, the user wins and the highest score is added to the board. Reverse case, all the points are set to 0.
